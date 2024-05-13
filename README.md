@@ -38,7 +38,10 @@ PostgreSQL
 Liquibase       
 Hibernate ORM       
 
-markdown
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vdavdov&layout=compact)](https://github.com/vdavdov/github-readme-stats)
+
+
+![Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=vdavdov)](https://git.io/streak-stats)
