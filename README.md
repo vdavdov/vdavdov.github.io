@@ -30,7 +30,8 @@ jQuery
 Jstl        
 JBoss       
 HTML5       
-SOAP        
+SOAP    
+Redis
 JSF     
 ООП     
 PostgreSQL      
