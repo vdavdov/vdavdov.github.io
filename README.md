@@ -3,7 +3,7 @@
 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 
 ## 🚀 About Me
-I'm a backend developer...
+I'm a try for backend developer...
 
 
 
@@ -30,13 +30,15 @@ jQuery
 Jstl        
 JBoss       
 HTML5       
-SOAP    
+REST    
 Redis
 JSF     
 ООП     
 PostgreSQL      
 Liquibase       
-Hibernate ORM       
+Hibernate ORM    
+...
+etc
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vdavdov&layout=compact)](https://github.com/vdavdov/github-readme-stats)
